@@ -1,4 +1,4 @@
-Voici un README complet pour votre projet :
+![alt text](image.png)
 
 # RAG Pipeline with Agno & PostgreSQL
 
